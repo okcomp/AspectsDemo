@@ -1,0 +1,10 @@
+PODS:
+  - Aspects (1.4.1)
+
+DEPENDENCIES:
+  - Aspects
+
+SPEC CHECKSUMS:
+  Aspects: a6368eba05295b24ffe0e9acfb9080cc3b0f4b5f
+
+COCOAPODS: 0.35.0
